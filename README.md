@@ -3,4 +3,4 @@
 
 
 |:-|:-|:-|:-|:-|:-|
-|![](../resources/X-1-s.png)||||||
+|![](https://raw.githubusercontent.com/12343954/MyWishTree/master/resources/X-1-s.JPG)||||||
