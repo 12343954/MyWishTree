@@ -2,6 +2,7 @@
 你的愿望，我来实现
 
 |版本：1.3.5 / 17.6MB / android|
+|:-:|
 |![](https://raw.githubusercontent.com/12343954/MyWishTree/master/resources/QR_MyWishTree_Download.png)|
 |扫码下载|
 
